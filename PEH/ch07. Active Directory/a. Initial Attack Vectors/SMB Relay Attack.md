@@ -11,8 +11,8 @@ Instead of cracking hashes gathered with Responder, we can instead relay those h
 
 #### Requirements
 
--   ﻿﻿SMB signing must be disabled on the target
--   ﻿﻿Relayed user credentials must be admin on machine
+- SMB signing must be disabled on the target
+- Relayed user credentials must be admin on machine
 
 >Note: In this case Vegeta is admin on both the Planet Vegeta Machine and Earth Machine
 
